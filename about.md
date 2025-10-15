@@ -7,6 +7,8 @@ title: About
 
 Team Photo
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/about.HEIC">
+
 Individual Bios
 
 Roles or Contributions (optional, only if it makes sense to your team)
