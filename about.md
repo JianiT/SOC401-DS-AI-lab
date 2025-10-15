@@ -7,7 +7,7 @@ title: About
 
 Team Photo
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/about.HEIC">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/about.jpg">
 
 Individual Bios
 
