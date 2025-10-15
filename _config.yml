@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:            DSSG Project Name
+title:            SOC 401 Project
 tagline:          ''
-description:      'A 2022 Data Science for Social Good summer fellowship project at the University of Washington' 
+description:      'A Course about AI and Data Science in Public Policy at the University of Washington' 
 url:              "https://jianit.github.io"
 baseurl:          "/SOC401-DS-AI-lab"
 
