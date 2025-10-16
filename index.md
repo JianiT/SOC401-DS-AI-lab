@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/front pic.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/front.jpg">
 
 
 # My SOC 401 Project
