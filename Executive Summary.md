@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Title and Executive Summary 
+title: Background and Problem Statement 
 ---
 
-#How can we use CCTVs to control the crime rate in Seattle? 
 
-**Executive Summary**
 
