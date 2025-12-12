@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Reference
+title: # Reference
 ---
 
-# References
+
 
 - **Action Network. (2025).** Tell Seattle City Council to Vote NO on CCTV and RTCC! @Theactionnet. [https://actionnetwork.org/letters/tell-seattle-city-council-to-vote-no-on-cctv-and-rtcc](https://actionnetwork.org/letters/tell-seattle-city-council-to-vote-no-on-cctv-and-rtcc)
 
