@@ -46,13 +46,14 @@ title: Reference
         h1 {
             text-align: center;
             font-weight: bold;
-            font-size: 12pt;
-            margin-bottom: 1em;
+            font-size: 20px;
+            margin-bottom: 2em;
         }
         .reference {
-            padding-left: 2em;
-            text-indent: -2em;
+            padding-left: 3em;
+            text-indent: -3em;
             margin-bottom: 1em;
+            list-style: none;
         }
         a {
             color: #000;
