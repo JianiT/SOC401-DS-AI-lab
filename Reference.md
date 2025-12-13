@@ -36,6 +36,6 @@ title: Reference
 <div style="padding-left: 3em; text-indent: -3em;">
   Vilalta, C. J., Sanchez, T. W., Fondevila, G., & Ramirez, M. (2019). A descriptive model of the relationship between police CCTV systems and crime. Evidence from Mexico City. <em>Police practice and research</em>, <em>20</em>(2), 105-121.
 </div>
-</html>
+
 
   
