@@ -50,9 +50,9 @@ title: Reference
             margin-bottom: 1em;
         }
         .reference {
-            margin-left: 0.5in;
-            text-indent: -0.5in;
-            margin-bottom: 0;
+            padding-left: 2em;
+            text-indent: -2em;
+            margin-bottom: 1em;
         }
         a {
             color: #000;
