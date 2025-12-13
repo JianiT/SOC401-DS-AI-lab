@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:            SOC 401 Project HI HI HI
+title:            CCTV Control in Seattle
 tagline:          ''
-description:      'A Course about AI and Data Science in Public Policy at the University of Washington' 
+description:      'A Project about CCTV impact on crime and privacy in Seattle' 
 url:              "https://jianit.github.io"
 baseurl:          "/SOC401-DS-AI-lab"
 
